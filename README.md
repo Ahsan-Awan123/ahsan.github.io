@@ -1,5 +1,5 @@
-# Data Engineer
-## Big Data & Scalable Systems 
+# Data Analyst
+## Big Data Analysis 
 ### TECHNICAL SKILLS
 
 ---
@@ -58,9 +58,9 @@
 ### EDUCATION
 
 ---
-**University of Illinois at Chicago**  
-***Chicago, Illinois, USA* &nbsp; <img src="assets/us.png" alt="US Flag" width="18" height="13">**  
-**M.S. Computer Science** _May 2026_
+**Stevens Institute of Technology**  
+***New Jersey Hoboken, USA* &nbsp; <img src="assets/us.png" alt="US Flag" width="18" height="13">**  
+**M.S. Business Intelligence and Analytics** _May 2026_
 <details>
   <summary><em>Relevant Coursework</em></summary>
   <ul>
@@ -75,7 +75,7 @@
 
 **Institute of Business Administration Karachi**  
 ***Karachi, Pakistan* &nbsp; <img src="assets/pk.png" alt="Pakistan Flag" width="18" height="13">**  
-**B.S. Computer Science** _May 2024_
+**B.S. Economics and Mathematics** _May 2021_
 <br>
 
 ### WORK EXPERIENCE
@@ -168,5 +168,5 @@ chain efficiency.
 ---
 
 Feel free to reach out to me through the following channels:  
-**<img src="assets/email_logo.png" alt="US Flag" width="18" height="18">** [arhammuhammad742@gmail.com](mailto:arhammuhammad742@gmail.com)  
-**<img src="assets/linkedin_logo.png" alt="US Flag" width="18" height="18">** [https://www.linkedin.com/in/muhammad-arham-iba/](https://www.linkedin.com/in/muhammad-arham-iba/)
+**<img src="assets/email_logo.png" alt="US Flag" width="18" height="18">** [ahsen.riazk@gmail.com](mailto:ahsen.riazk@gmail.com)  
+**<img src="assets/linkedin_logo.png" alt="US Flag" width="18" height="18">** [https://www.linkedin.com/in/ahsan-riaz-321527182/](https://www.linkedin.com/in/ahsan-riaz-321527182/)
