@@ -81,50 +81,33 @@
 ### WORK EXPERIENCE
 
 ---
-**University of Illinois Chicago** | Chicago, Illinois, USA &nbsp; <img src="assets/us.png" alt="US Flag" width="18" height="13">  
-**Graduate Teaching Assistant** | Sep 2024 - Present  
-- Developed and delivered both synchronous and asynchronous instruction in Swift programming, with a focus on iOS app development (SwiftUI, UIKit), empowering students to build real-world mobile applications addressing community challenges.
-- Integrated cutting-edge AR/VR/Spatial Computing content, collaborating with students in an Agile environment to build innovative mobile
-applications.
-- Earned Apple-certified NC3 training in North Carolina, gaining advanced expertise in Swift programming and leadership skills to conduct
-train-the-trainer sessions for the Sandbox@UIC team.
-- Spearheaded outreach initiatives to recruit students, promote UIC Innovation programs, and coordinate event operations, significantly
-enhancing community engagement and technological literacy.
-- **Tools:** Swift Programming, SwiftUI, UIKit
-- **Competencies:** App Development, Software Development
+**Shell (Oil and Gas)** | Karachi, PK &nbsp; <img src="assets/pk.png" alt="Pakistan Flag" width="18" height="13">  
+**Business Analyst** | 2023 – 2024  
+- Analyzed over 50,000 historical sales orders in Python to identify trends and peak demand periods for various regions, leading to a 12% improvement in inventory accuracy and a 10% reduction in stockouts.
+- Categorized 300+ gas stations based on demand patterns using Tableau to tailor distribution strategy, resulting in a 10% reduction in logistics costs while maintaining a 95% on-time delivery rate.
+- Coordinated the distribution of 4 million liters of fuel across 300+ gas stations by efficiently scheduling 40 trucks, resulting in a 15% increase in delivery efficiency and a 10% reduction in transportation costs.
+- Analyzed lead time and on-time delivery metrics in Power BI, implementing process improvements that boosted the customer satisfaction index by 20% and decreased lead times by 15%.
+- **Tools:** Python, Tableau, Power BI, Excel
+- **Competencies:** Demand Forecasting, Supply Chain Optimization, KPI Reporting, Logistics Management, Stakeholder Communication
 <br>
 
-**Habib Bank Limited** *(Pakistan's leading bank)* | Karachi, PK &nbsp; <img src="assets/pk.png" alt="Pakistan Flag" width="18" height="13">  
-**Data Engineer Intern** | Aug 2023 - May 2024  
-- Developed an ETL data pipeline that integrated data from multiple sources (MySQL, PostgreSQL, MongoDB) into a centralized repository
-for customer information.
-- Designed and implemented a star schema, creating dimensional tables and a fact table to optimize data retrieval and reporting.
-- Automated data extraction, transformation, and loading (ETL) processes, reducing manual intervention for viewing customer data by 70%.
-- **Tools:** Python, SQL, Scikit-learn, XGBoost, Apache Spark, Excel
-- **Competencies:** Machine Learning, Churn Forecasting, Customer Segmentation, Adhoc Analysis, Stakeholder Management
+**Daraz Alibaba Group** | Karachi, PK &nbsp; <img src="assets/pk.png" alt="Pakistan Flag" width="18" height="13">  
+**Business Analyst** | 2022 – 2023  
+- Used Excel Power Query to process and analyze daily data from 1.5 million packages, generating performance reports that enhanced operational visibility and efficiency.
+- Managed a $3.5 million annual budget, ensuring optimal resource allocation and achieving significant cost savings through regular financial reviews and analyses.
+- Developed interactive dashboards and visualizations in Tableau to monitor performance metrics, leading to a 15% increase in operational efficiency and a 10% reduction in costs.
+- Established daily communication with transport partners, achieving a 98% on-time delivery rate and significantly improving operational coordination.
+- **Tools:** Excel Power Query, Tableau, SQL
+- **Competencies:** Financial Analysis, Data Visualization, Performance Monitoring, Cost Optimization, Vendor Coordination
 <br>
 
-**Pakistan State Oil** *(Pakistan's largest oil marketing company (OMC))* | Karachi, PK &nbsp; <img src="assets/pk.png" alt="Pakistan Flag" width="18" height="13">  
-**Data Science Intern** | Jul 2022 - Aug 2022
-- Successfully completed 'Credit Limit Analysis' and ‘Sales Forecasting’ projects at PSO, utilizing my skills in data extraction and analysis to
-extract relevant features from SAP Software.
-- Collaborated with cross-functional teams to gain a deep understanding of PSO's existing credit policy and worked closely with different
-departments to identify areas for data-driven improvements.
-- Conducted extensive data analysis and extracted actionable insights that helped PSO allocate its resources more effectively, resulting in a
-significant 38% improvement in the company's credit management and risk assessment capabilities.
-- **Tools:** SQL, STAN, Grafana, Python
-- **Competencies:** AI Production, Analytical Dashboards, Model Iteration, Hierarchical Modeling
-<br>
-
-**3STEM** | Chicago, Illinois, USA &nbsp; <img src="assets/us.png" alt="Pakistan Flag" width="18" height="13">  
-**SAP Functional Consultant** | Nov 2021 - Oct 2023
-- Applied my SAP expertise in MM, WM, and EWM modules to optimize inventory management, reduce operational costs, and enhance
-customer satisfaction for a global household cleaning supplies manufacturer.
-- Implemented and configured Material Management processes, including purchase requisitions, release strategies, and MRP, to achieve supply
-chain efficiency.
-- Worked on ERP and EWM system integration, gaining insights into data-driven operational enhancements.
-- **Tools:** SAP ERP, SAP MM, SAP WM, SAP EWM
-- **Competencies:** AI Production, Analytical Dashboards, Model Iteration, Hierarchical Modeling
+**Dubai Ports World** | Karachi, PK &nbsp; <img src="assets/pk.png" alt="Pakistan Flag" width="18" height="13">  
+**Management Trainee - Supply Chain** | 2021 – 2022  
+- Proposed and executed a truck routing plan that reduced fuel consumption by 20%, lowered carbon emissions by 2.77 tons annually, and resulted in cost savings of 1.4 million PKR.
+- Led a Lean project on “Truck Turnaround Time” (TTT) reduction by identifying bottlenecks and implementing process improvements, achieving a 12% reduction in TTT.
+- Collaborated with cross-functional teams to optimize logistics operations, improve service levels, and enhance overall supply chain efficiency.
+- **Tools:** Excel, SQL, Tableau
+- **Competencies:** Process Improvement, Lean Six Sigma, Transportation Analytics, Supply Chain Management, Sustainability Reporting
 <br>
 
 ### PROJECTS
