@@ -1,4 +1,4 @@
-# Business Analyst  
+#  Ahsan Riaz Data/Business Analyst  
 ### TECHNICAL SKILLS
 
 ---
