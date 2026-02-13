@@ -113,12 +113,12 @@
 ### PROJECTS
 
 ---
-#### Data Warehouse and Analytics Project [GitHub](https://https://github.com/Ahsan-Awan123/sql-datawarehouse-project)
+#### Data Warehouse and Analytics Project [GitHub](https://github.com/Ahsan-Awan123/sql-datawarehouse-project)
 
 This project demonstrates a comprehensive data warehouse and analytics solution, from building a data warehouse to generating a actionble insights design as a portfolio project, highlights industry best practices in data engineering and analytics.
   
 
-#### Sales-Data-Analysis (Interactive Dashboard creation using Tableau) [GitHub](https://https://github.com/Ahsan-Awan123/Data-Analysis-Dashbaord)
+#### Sales-Data-Analysis (Interactive Dashboard creation using Tableau) [GitHub](https://github.com/Ahsan-Awan123/Data-Analysis-Dashbaord)
 
 This interactive Tableau dashboard provides a comprehensive view of sales, profit, and quantity performance with a strong focus on year-over-year comparison and trend analysis
 
