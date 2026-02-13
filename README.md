@@ -1,5 +1,4 @@
-# Data Analyst
-## Big Data Analysis 
+# Business Analyst  
 ### TECHNICAL SKILLS
 
 ---
