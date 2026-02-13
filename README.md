@@ -113,38 +113,20 @@
 ### PROJECTS
 
 ---
-#### RAG-based LLM for Medical Dialogue Generation – Biomedical NLP [GitHub](https://github.com/advaitpai/Medical-Dialog-Generation)
+#### Data Warehouse and Analytics Project [GitHub](https://https://github.com/Ahsan-Awan123/sql-datawarehouse-project)
 
-- Created a healthcare chatbot on GCP that provides contextually relevant responses to medical queries using NLP, Retrieval-Augmented Generation, and GPT-3 on PyTorch.
-- Enhanced response accuracy by 45% by quantifying RAG's effectiveness using pre-trained BERT embedded tokens.
-- Minimized inherent hallucinations to a 2% response rate through fine-tuning and prompt engineering techniques.
+This project demonstrates a comprehensive data warehouse and analytics solution, from building a data warehouse to generating a actionble insights design as a portfolio project, highlights industry best practices in data engineering and analytics.
   
-<!-- Adding an image under the project -->
-<img src="assets/RAG.png" alt="Predictive Trading Transformer" width="500">
 
-#### Predictive Trading with Transformer Models: An AI-Powered Solution [GitHub](https://github.com/zohairhashmi/blockhouse-transformers)
+#### Sales-Data-Analysis (Interactive Dashboard creation using Tableau) [GitHub](https://https://github.com/Ahsan-Awan123/Data-Analysis-Dashbaord)
 
-- Designed a Transformer-based model for automated trading, achieving 86% prediction accuracy and optimizing investment portfolio decisions.
-- Processed market data features, generating sequence embeddings for price, RSI, MACD, and other technical indicators, enhancing the model’s ability to capture market trends.
-- Formulated a momentum-based strategy to optimize trades, increasing profit by 21% with 80% fewer actions.
+This interactive Tableau dashboard provides a comprehensive view of sales, profit, and quantity performance with a strong focus on year-over-year comparison and trend analysis
+
+-How are total sales trending over time, and how do they compare year-over-year?
+-Is revenue growth translating into profit growth, or is margin being compressed?
+-Which periods show above-average vs below-average performance in sales and profit?
+-Is growth driven by higher sales volume (quantity) or by pricing effects?
   
-<!-- Adding an image under the project -->
-<img src="assets/blockhouse-trading.png" alt="Predictive Trading Transformer" width="500">
-
-#### Algorithmic Fairness & Uncertainty Analysis  [GitHub](https://github.com/zohairhashmi/uncertainty-quantification)
-
-- Developed techniques to quantify uncertainty and enhance fairness in ML models, addressing biases in datasets.
-- Analyzed aleatoric and epistemic uncertainties using Monte Carlo Markov Chains (MCMC) with PyMC and TensorFlow.
-- Improved predictive capability and fairness by 15% and reduced bias by 10% through Ensemble and Dropout Neural Networks.
-- Showed that epistemic uncertainty decreases with increased dataset knowledge and demonstrated how adding random noise can reduce biases, resulting in a fairer dataset.
-
-#### Parallel Processing: My First Dips into Data Speed
-1. [Matrx Multiplication via CUDA](https://github.com/zohairhashmi/cuda-parallel-processing)
-2. [2D Convolution using MPI](https://github.com/zohairhashmi/gaussian-elimination)
-3. [Gaussian Elimination using MPI](https://github.com/zohairhashmi/Convolution2D-Parallel-Processing)
-
-#### [My First Ever Data Science Project](https://github.com/zohairhashmi/ibm-datascience-capstone-project)
-<br>
 
 ### CONTACT
 
